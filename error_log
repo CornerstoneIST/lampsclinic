@@ -1,0 +1,1 @@
+[13-Jun-2013 22:10:07 UTC] PHP Fatal error:  Call to a member function getAllStatusHistory() on a non-object in /home/lampclin/public_html/app/code/core/Mage/Adminhtml/Block/Sales/Order/View/Tab/History.php on line 65

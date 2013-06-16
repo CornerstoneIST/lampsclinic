@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>IG_404ToSearch</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://www.idealiagroup.com/magento-ext-license.html">Commercial</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>IDEALIAGroup 404-to-search</summary>
+    <description>IDEALIAGroup 404-to-search</description>
+    <notes>Enjoy it ;)</notes>
+    <authors><author><name>Riccardo Tempesta</name><user>auto-converted</user><email>tempesta@idealiagroup.com</email></author><author><name>Marco Giorgetti</name><user>auto-converted</user><email>giorgetti@idealiagroup.com</email></author></authors>
+    <date>2011-12-28</date>
+    <time>10:13:57</time>
+    <contents><target name="magecommunity"><dir name="IG"><dir name="404ToSearch"><dir name="Helper"><file name="Data.php" hash="4268a7d9e27f1ff5ffba72c904f61784"/></dir><dir name="Model"><file name="Cmsheader.php" hash="3e94db77c4d18116d4e2575721fd9e7d"/></dir><dir name="controllers"><file name="IndexController.php" hash="7f981bca5b036baf0ccc032c9e571a4b"/></dir><dir name="etc"><file name="config.xml" hash="69fc1afeec3131f20b1013e88df6b9c7"/><file name="system.xml" hash="c81de30a90950cad2bf444c6d9c954ad"/></dir><file name="CHANGELOG.txt" hash="d41d8cd98f00b204e9800998ecf8427e"/><file name="COMPATIBILITY.txt" hash="d3b64c7bb51137148e6b0feed3224af5"/><file name="LICENSE.txt" hash="b3688e16b11d101dd15b47c62cd2567d"/></dir></dir></target><target name="mageetc"><dir name="modules"><file name="IG_404ToSearch.xml" hash="361122d80952e5b3564cbaed45fa609a"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="ig_404tosearch.xml" hash="4564c27515487b96583be48003b2176e"/></dir><dir name="template"><dir name="ig_404tosearch"><file name="result.phtml" hash="599543e92d1968b3c4ccd6a7111f570a"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies/>
+</package>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * IDEALIAGroup srl
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the EULA
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://www.idealiagroup.com/magento-ext-license.html
+ *
+ * @category   IG
+ * @package    IG_404ToSearch
+ * @copyright  Copyright (c) 2010-2011 IDEALIAGroup srl (http://www.idealiagroup.com)
+ * @license    http://www.idealiagroup.com/magento-ext-license.html
+ */
+-->
+<config>
+	<modules>
+		<IG_404ToSearch>
+			<version>1.0.0</version>
+		</IG_404ToSearch>
+	</modules>
+
+	<frontend>
+		<routers>
+			<ig_404tosearch>
+				<use>standard</use>
+				<args>
+					<module>IG_404ToSearch</module>
+					<frontName>ig_404tosearch</frontName>
+				</args>
+			</ig_404tosearch>
+		</routers>
+		<layout>
+			<updates>
+				<ig_404tosearch>
+					<file>ig_404tosearch.xml</file>
+				</ig_404tosearch>
+			</updates>
+		</layout>
+	</frontend>
+
+	<global>
+		<helpers>
+			<ig_404tosearch>
+				<class>IG_404ToSearch_Helper</class>
+			</ig_404tosearch>
+        </helpers>
+		<models>
+			<ig_404tosearch>
+				<class>IG_404ToSearch_Model</class>
+			</ig_404tosearch>
+		</models>
+		<routers>
+			<cms>
+				<rewrite>
+					<index>
+						<to>ig_404tosearch/index</to>
+						<override_actions>true</override_actions>
+						<actions>
+							<noroute><to>ig_404tosearch/index/noroute</to></noroute>
+						</actions>
+					</index>
+				</rewrite>
+			</cms>
+		</routers>
+	</global>
+	
+	<adminhtml>
+		<acl>
+			<resources>
+				<admin>
+					<children>
+						<system>
+							<children>
+								<config>
+									<children>
+										<ig_404tosearch translate="title" module="ig_404tosearch">
+											<title>IG_404ToSearch</title>
+											<sort_order>50</sort_order>
+										</ig_404tosearch>
+									</children>
+								</config>
+							</children>
+						</system>
+					</children>
+				</admin>
+			</resources>
+		</acl>
+    </adminhtml>
+
+	<default>
+		<ig_404tosearch>
+			<general>
+				<enabled>1</enabled>
+				<page_title>Page Not Found</page_title>
+				<template>{{_url_}}</template>
+			</general>
+		</ig_404tosearch>
+	</default>
+</config>

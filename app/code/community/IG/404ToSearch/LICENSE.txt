@@ -1,0 +1,72 @@
+IDEALIAGroup srl EULA
+www.idealiagroup.com
+www.magentospecialist.it
+
+THIS LICENSE AGREEMENT (HEREINAFTER AGREEMENT) IS AN AGREEMENT BETWEEN YOU (THE
+PERSON OR COMPANY WHO IS BEING LICENSED TO USE THE SOFTWARE OR DOCUMENTATION)
+AND IDEALIAGROUP SRL. (HEREINAFTER WE/US/OUR). THE AGREEMENT APPLIES TO ALL
+PRODUCTS/SOFTWARE/SCRIPTS/SERVICES YOU PURCHASE FROM US.
+
+1.	By purchasing the Software you acknowledge that you have read this Agreement,
+	and that you agree to the content of the Agreement and its terms, and agree
+	to use the Software in compliance with this Agreement.
+
+2.	The Agreement comes into legal force at the moment when you order our
+	Software from our site or receive it through email or on data medium at the
+	our discretion.
+
+3.	We are the copyright holder of the Product. The Product or a portion of
+	it is a copyrightable matter and is liable to protection by the law.
+	Any activity that infringes terms of this Agreement violates copyright
+	law and will be prosecuted according to the current law. We reserve the
+	right to revoke the license of any user who is holding an invalid
+	license.
+
+4.	You may not use any part of the code in whole or part in any other
+	software or product or website without our explicit written permission.
+
+5.	You have the right, within the duration of the license, to modify and
+	adapt the product for your specific needs.
+
+6.	You may not give, sell, distribute, sub-license, rent, lease or lend
+	any portion of the Product or Documentation to anyone without our
+	explicit written permission. You may not place the Product on a server
+	so that it is accessible via a public network such as the Internet
+	for distribution purposes without our explicit written permission.
+
+7.	You are bound to preserve the copyright information intact, this
+	includes the text/link at bottom of templates.
+
+8.	We reserve the right to publish a selected list of buyers of our
+	Product.
+	
+9.	We will not be liable to you for any damages (including any loss of
+	profits/saving, or incidental or consequential) caused to you, your
+	information and your business arising out of the use or inability to use
+	this Product.
+
+10.	We are not liable for prosecution arising from use of the Product
+	against law or for any illegal use.
+
+11.	If you fail to use the Product in accordance with the terms and
+	conditions of this License Agreement, it constitutes a breach of the
+	agreement, and your license to use the program is revoked.
+
+12.	IDEALIAGroup srl reserves the right to change this license agreement at
+	any time and impose its clauses at any given time.
+
+13.	License agreement remains effective until terminated. We retain the right
+	to terminate your license to use the Product at any time, if in its sole
+	discretion, you are not abiding by the terms of the Agreement, including,
+	but not limited to, obscuring or removing any link or copyright notice as
+	specified in this agreement. You may terminate it at any time by
+	destroying all copies of the Product. Termination of this Agreement does
+	not bind us to return you the amount spent for purchase of the Product.
+	
+14.	If you continue to use the Software after IDEALIAGroup srl gives you
+	notice of termination of your license, you hereby agree to accept an
+	injunction to enjoin you from its further use and to pay all costs
+	(including but not limited to reasonable attorney fees) to enforce our
+	revocation of your license and any damages suffered by us because of
+	your misuse of the Product.
+
